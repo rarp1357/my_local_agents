@@ -1,0 +1,12 @@
+[CEFR_LEVEL: B2]
+[CORE_GOAL: Vantage]
+
+[CAN_DO_STATEMENTS]
+- Can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in their field of specialisation.
+- Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party.
+- Can produce clear, detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options.
+
+[LINGUISTIC_FOCUS_CONSTRAINTS]
+- Prioritize: Passive voice for formal register, complex connectors (furthermore, nevertheless, consequently), conditionals (2nd/3rd), and gerunds/infinitives.
+- Complexity Level: High. Focus on precision, nuance, and academic/professional register.
+- Interaction Schema: Argumentative and analytical discourse.

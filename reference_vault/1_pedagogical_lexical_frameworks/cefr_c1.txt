@@ -1,0 +1,13 @@
+[CEFR_LEVEL: C1]
+[CORE_GOAL: Effective Operational Proficiency]
+
+[CAN_DO_STATEMENTS]
+- Can understand a wide range of demanding, longer texts, and recognise implicit meaning.
+- Can express ideas fluently and spontaneously without much obvious searching for expressions.
+- Can use language flexibly and effectively for social, academic and professional purposes.
+- Can produce clear, well-structured, detailed text on complex subjects, showing controlled use of organisational patterns, connectors and cohesive devices.
+
+[LINGUISTIC_FOCUS_CONSTRAINTS]
+- Prioritize: Inversion for emphasis, advanced cleft sentences, nominalisation, nuanced modality, idiomatic collocations.
+- Complexity Level: High. Focus on flexibility, precision, and stylistic appropriateness.
+- Interaction Schema: Nuanced negotiation, professional debate, and high-level abstract synthesis.

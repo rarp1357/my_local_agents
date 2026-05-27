@@ -1,0 +1,12 @@
+[LEVEL: Pre A1 Starters]
+[CORE_GOAL: Introduction to English]
+
+[CAN_DO_STATEMENTS]
+- Can understand basic instructions, simple phrases, and everyday vocabulary related to familiar topics.
+- Can answer simple questions about themselves, their home, and their surroundings.
+- Can participate in very simple conversations if the other person speaks slowly and helps them.
+
+[LINGUISTIC_FOCUS_CONSTRAINTS]
+- Prioritize: Basic nouns (animals, food, school objects), present simple tense, 'to be', 'have got', simple prepositions of place.
+- Complexity Level: Minimal. Use very short, concrete sentences.
+- Interaction Schema: Basic questions and one-word or short-phrase responses.

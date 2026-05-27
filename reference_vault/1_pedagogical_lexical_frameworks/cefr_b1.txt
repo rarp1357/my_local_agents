@@ -1,0 +1,13 @@
+[CEFR_LEVEL: B1]
+[CORE_GOAL: Threshold]
+
+[CAN_DO_STATEMENTS]
+- Can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.
+- Can deal with most situations likely to arise whilst travelling in an area where the language is spoken.
+- Can produce simple connected text on topics which are familiar or of personal interest.
+- Can describe experiences and events, dreams, hopes and ambitions and briefly give reasons and explanations for opinions and plans.
+
+[LINGUISTIC_FOCUS_CONSTRAINTS]
+- Prioritize: Modal verbs for hypothesis, past continuous for narrative background, relative clauses.
+- Complexity Level: Moderate. Avoid overly formal academic register; focus on communicative clarity.
+- Interaction Schema: Use SFL "Nominal Group" expansion to introduce more descriptive detail without increasing syntactic complexity.

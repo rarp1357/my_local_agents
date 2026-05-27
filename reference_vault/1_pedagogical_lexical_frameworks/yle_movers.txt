@@ -1,0 +1,12 @@
+[LEVEL: A1 Movers]
+[CORE_GOAL: Basic Communication]
+
+[CAN_DO_STATEMENTS]
+- Can understand simple descriptions, instructions, and narrations about familiar topics.
+- Can talk about their day, their likes and dislikes, and simple activities using basic sentences.
+- Can ask and answer simple questions and participate in short, structured interactions.
+
+[LINGUISTIC_FOCUS_CONSTRAINTS]
+- Prioritize: Present simple and continuous, past simple (regular verbs), basic comparatives, modal 'can', 'should', 'would like to'.
+- Complexity Level: Low. Focus on connecting simple ideas with 'and', 'but', 'because'.
+- Interaction Schema: Routine information exchange and simple narrative.

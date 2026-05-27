@@ -1,0 +1,12 @@
+[CEFR_LEVEL: A2]
+[CORE_GOAL: Waystage]
+
+[CAN_DO_STATEMENTS]
+- Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g., very basic personal and family information, shopping, local geography, employment).
+- Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters.
+- Can describe in simple terms aspects of their background, immediate environment and matters in areas of immediate need.
+
+[LINGUISTIC_FOCUS_CONSTRAINTS]
+- Prioritize: Past simple, present continuous, basic modals of ability (can) and obligation (have to), simple comparative adjectives.
+- Complexity Level: Low to moderate. Focus on routine matters.
+- Interaction Schema: Routine information exchange.

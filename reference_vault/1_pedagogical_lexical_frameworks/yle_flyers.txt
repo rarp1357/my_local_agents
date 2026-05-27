@@ -1,0 +1,12 @@
+[LEVEL: A2 Flyers]
+[CORE_GOAL: Functional Competence]
+
+[CAN_DO_STATEMENTS]
+- Can understand the main points of clear, simple texts and narratives on familiar subjects.
+- Can describe past experiences, future plans, and give simple reasons for opinions.
+- Can interact with increased confidence in routine situations and social exchanges.
+
+[LINGUISTIC_FOCUS_CONSTRAINTS]
+- Prioritize: Past simple (irregular verbs), future 'going to' and 'will', basic present perfect, infinitive of purpose, simple adverbs.
+- Complexity Level: Moderate. Focus on coherence and descriptive detail.
+- Interaction Schema: Giving opinions, telling stories, and functional interaction.

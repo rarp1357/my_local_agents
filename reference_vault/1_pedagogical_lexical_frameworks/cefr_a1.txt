@@ -1,0 +1,12 @@
+[CEFR_LEVEL: A1]
+[CORE_GOAL: Breakthrough]
+
+[CAN_DO_STATEMENTS]
+- Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.
+- Can introduce themselves and others and can ask and answer questions about personal details such as where they live, people they know and things they have.
+- Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.
+
+[LINGUISTIC_FOCUS_CONSTRAINTS]
+- Prioritize: Basic personal pronouns, present simple of 'to be' and 'have got', basic question words (who, what, where), common nouns for everyday objects.
+- Complexity Level: Very low. Use short, simple sentences.
+- Interaction Schema: Focus on concrete, immediate needs.
